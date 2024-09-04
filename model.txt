@@ -1,0 +1,9 @@
+This program aims at providing the visualistaion for the best combination of Solar, Wind and Battery capacities for a renewable energy fueled power plant.
+It takes input for the starting and end values for 1. Solar Capacity (in MW), 2. Wind Capacity (MW) and 3. the BESS Capacity (MWh). It also takes input for the step to be increased for each variable.
+It iterates through the range of values for each variable, increasing/decreasing the variable value by the step value enetered.
+It then comes up with various visualisations and summarised data tables for the suitable combinations.
+The program has four main files;
+  1. the main.py file
+  2. the functions.py file
+  3. the index.html file
+  4. the results.html file
